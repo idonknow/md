@@ -1,0 +1,43 @@
+Title  :空间域增强
+
+[TITLE]
+#图像坐标变换
+##基本坐标变换
+~ Equation
+V'=AV
+~
+~ Math
+V'=
+\begin{bmatrix}
+  x\\
+  y\\
+  1
+  \end{bmatrix}
+  ~
+平移：
+~ Equation
+T=
+\begin{bmatrix}
+  1 & 0 & T_{x}\\
+  0 & 1 & T_{y}\\
+  0 & 0 & 1\\  
+  \end{bmatrix}
+~
+放缩变换/尺度变换：
+~ Equation
+S=
+\begin{bmatrix}
+  S_{x} & 0 & 0\\
+  0 & S_{y} & 0\\
+  0 & 0 & 1\\  
+  \end{bmatrix}
+~
+旋转变换：
+~ Equation
+R_{\gamma}=
+\begin{bmatrix}
+  cos\gamma & 0 & T_{x}\\
+  0 & 1 & T_{y}\\
+  0 & 0 & 1\\  
+  \end{bmatrix}
+~
