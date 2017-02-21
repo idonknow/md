@@ -18,10 +18,9 @@
 ![4](https://raw.githubusercontent.com/weigq/image-raw/master/2.PNG)
 </div>
 
-<div align="center">
 ![4](https://raw.githubusercontent.com/weigq/image-raw/master/3.PNG)
-</div>
 
-<div align="center">
+
+
 ![4](https://raw.githubusercontent.com/weigq/image-raw/master/5.PNG)
-</div>
+
